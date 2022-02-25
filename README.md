@@ -1,3 +1,3 @@
 # Simple Movie Recommender in Python using Pandas
 
-Purpose: Apply data manipulation techniques with pandas to process Movie Rating data and apply correlation function to identify movies closely related to Toy Story and Titanic. 
+Purpose: Apply data manipulation techniques with pandas to develop a simple movie recommender system in Python that uses the correlation between 100,000 movie ratings (from 700 users) to find similarity between the 9,000 movies. 
